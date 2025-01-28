@@ -1,27 +1,17 @@
-<p align="center">
-  <img src="demo3.gif" />
-</p>
-
-<p align="center">
-  <img src="klukashka.png" />
-</p>
-
-<!-- - **Pavel Klyukin, 19 y.o.**
-- **Russia, Moscow.**
-- **Python backend developer.**
-- **Student at [MAI](https://mai.ru), Computer Science ([01.03.02](https://institutes.mai.ru/computing/)).** -->
-
-
-<div style="display: flex; align-items: center;">
-  <div >
-    <ul>
-      <li>😉Pavel Klyukin, 19 y.o.</strong></li>
-      <li>📍Russia, Moscow.</strong></li>
-      <li>💻Python backend developer.</strong></li>
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex-shrink: 0;">
+    <img src="demo3.gif" alt="GIF" />
+  </div>
+  <div style="padding-left: 10px; padding-top: 20px;">
+    <ul style="line-height: 2;">
+      <li>😉Pavel Klyukin, 19 y.o.</li>
+      <li>📍Russia, Moscow.</li>
+      <li>💻Python backend developer.</li>
       <li>
-        <img src="mai.png" alt="PNG" style="width: 18px; height: 18px;">
-        Student at <a href="https://mai.ru">MAI</a>, Computer Science (<a href="https://institutes.mai.ru/computing/">01.03.02</a>).</strong>
+        <img src="mai.png" alt="PNG" style="width: 16px; height: 16px; margin-top: 5px;">
+        Student at <a href="https://mai.ru">MAI</a>, Computer Science (<a href="https://institutes.mai.ru/computing/">01.03.02</a>).
       </li>
     </ul>
   </div>
 </div>
+
