@@ -7,5 +7,6 @@
     <img src="mai.png" style="width: 16px; margin-top: 7px; margin-left: -2px; margin-right: -5px">
     Student at <a href="https://mai.ru">MAI</a>, Computer Science (<a href="https://institutes.mai.ru/computing/">01.03.02</a>).
   </p>
+  <p style="line-height: 2; margin-bottom: 5px;">&nbsp;&nbsp;&nbsp;<strong>Check out my <a href="https://github.com/klukashka/CV">CV</a></strong>.</p>
 </ul>
 <br clear="left"/>
